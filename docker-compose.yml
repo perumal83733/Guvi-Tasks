@@ -4,4 +4,4 @@ services:
     image: perumal007/custom-web-application
 
     ports:
-      - 80:80
+      - 8081:80
