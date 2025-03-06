@@ -5,3 +5,5 @@ WORKDIR /var/opt/nginx
 COPY index.html /var/opt/nginx/index.html
 EXPOSE 80
 naresh
+perumal
+kural
